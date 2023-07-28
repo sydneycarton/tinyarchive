@@ -1,13 +1,21 @@
-h1{
-    color:rgb(206, 192, 255);
-}
 ul{
     list-style: none;
-    padding-left:20%;
+    padding-left: 10%;
+}
+.page_title{
+ font-size: xx-large;
+ margin-top: 1%;
+ margin-bottom:5%;
+}
+.breadcrumb
+{
+    font-family: fantasy;
+    font-size: small;
 }
 .image{
-    margin-top:1%;
-    margin-bottom:1%;
-    padding-left:30%;
-    padding-right:30%;
+    padding-left:30%
+}
+body{
+    background: rgb(235,222,207);
+    background: radial-gradient(circle, rgba(235,222,207,1) 0%, rgba(226,188,134,1) 100%);
 }
